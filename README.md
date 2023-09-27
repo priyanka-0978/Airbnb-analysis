@@ -61,7 +61,7 @@ Preferred Cancellation Policy of host in airbnb
 
 Geographic Analysis:Investigate the market and country-level distribution of Airbnb listings.
 
-Explore the Tableau dashboard https://public.tableau.com/shared/DJRGZB9MR?:display_count=n&:origin=viz_share_link for in-depth insights.
+**Explore the Tableau dashboard https://public.tableau.com/shared/DJRGZB9MR?:display_count=n&:origin=viz_share_link for in-depth insights.**
 
 
 
