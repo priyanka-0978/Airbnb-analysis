@@ -2,7 +2,6 @@ import pandas as pd
 import pymongo
 import mysql.connector
 import plotly.express as px
-import matplotlib.pyplot as plt
 import json
 import plotly.express as px
 import streamlit as st
