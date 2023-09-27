@@ -1,8 +1,10 @@
 **Airbnb Analysis**
 
-The objectives of this project is to analyse and visualize Airbnb data to learn more about pricing variations, booking trends, and location-based trends.
+The objectives of this project is to analyse and visualize Airbnb data to learn more about pricing variations, booking trends, and location-based trends. This project employs MongoDB Atlas, Streamlit, and data visualization techniques to provide an in-depth analysis.
 
-**Technologies Used**
+
+
+**Technologies & Libraries Used**
 
 Python
 
@@ -11,6 +13,12 @@ Pandas
 MongoDB
 
 MySQL
+
+Json
+
+numpy
+
+time
 
 Streamlit
 
@@ -29,18 +37,32 @@ Data Visualization and Trend Analysis
 
 **Features Analysis on Airbnb dataset**
 
-Property Insights: Analyze the total number of properties based on property type, room type, and bed type.
-Stay Duration Analysis: Investigate the minimum and maximum nights guests typically stay.
-Cancellation Policy Impact: Understand the impact of cancellation policies on booking trends.
-Accommodation Metrics: Explore accommodates, bedrooms, and beds-related statistics.
-Review Analysis: Examine total reviews, average review scores, and the distribution of reviews.
-Bathroom and Pricing Analysis: Investigate bathroom count, pricing, cleaning prices, and extra guest charges.
-Guest Inclusion Trends: Analyze the number of guests included in bookings.
-Host Insights: Explore host-related metrics, including host response time, response rate, and the number of properties hosted.
-Geographic Analysis: Investigate the market and country-level distribution of Airbnb listings.
-Availability Trends: Visualize property availability for the next 30, 60, 90, and 360 days.
+Property type analysis: Analyzing the preferred property type based on number of reviews & prices
 
-**LinkedIN:**
+Room type analysis: Analyzing the preferred room type based on number of reviews & prices
+
+Bed types: Preferred bed types, count of beds/bed type in room_type, count of beds/bed type property type, and overall countries mentioned in airbnb
+
+Price in different countries based on latitude and longitude 
+
+Total no.of rooms,room type in listngs of airbnb all over the country
+
+Host analysis:
+
+Top host name in the airbnb based on listing counts,room type count
+
+Top 10 Busiest host in airbnb 
+
+Host response time 
+
+Total hosts,total neighbourhoods in airbnb
+              
+Preferred Cancellation Policy of host in airbnb
+
+Geographic Analysis:Investigate the market and country-level distribution of Airbnb listings.
+
+Explore the Tableau dashboard https://public.tableau.com/shared/DJRGZB9MR?:display_count=n&:origin=viz_share_link for in-depth insights.
+
 
 
 
