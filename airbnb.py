@@ -19,7 +19,7 @@ with st.sidebar:
     image_url =Image.open(r"C:\Users\ADMIN\Downloads\airbnb_logo.png")
     st.image(image_url, use_column_width=True)
     selected = option_menu(menu_title="", options=["Home", "Visualization","Exit"], 
-                          icons=['house','database-fill', 'bar-chart', 'sign-turn-right-fill'],
+                          icons=['house','bar-chart', 'sign-turn-right-fill'],
                           styles={
                                "container": {"padding": "0!important", "font-family": "Permanent Marker"},
                                "icon": {"color": "orange", "font-size": "15px"}, 
